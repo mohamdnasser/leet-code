@@ -1,4 +1,4 @@
-package pivot.point;
+package pivotIndex;
 
 public class FindPivotIndex {
 }
